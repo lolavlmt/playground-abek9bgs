@@ -24,7 +24,18 @@ A simple Nodejs project dedicated to run the programming exercise above. A proje
 [`techio.yml`](https://github.com/TechDotIO/nodejs-template/blob/master/techio.yml)
 This *mandatory* file describes both the table of content and the programming project(s). The file path should not be changed.
 
+# Test
 
-# Visual and Interactive Content
+Initialise la variable myVar à true
+Crée le tableau myArray qui comprend les 3 élements suivant : A, B et C
+Crée l'objet myObject qui a une les 2 propriétés : myProp1 qui vaut 1, et myProp2 qui vaut "hello"
+Crée la fonction myFunc qui prend en paramètre myParam et qui le retourne
 
-Tech.io provides all the tools to embed visual and interactive content like a Web app or a Unix terminal within your contribution. Please refer to the [documentation](https://tech.io/doc) to learn more about the viewer integrations.
+Boucle sur le tableau myArray, et log chaque item
+Appel la fonction myFunc, en passant myVar en paramètre, et log le retour
+Log la propriété myProp1 de myObject
+
+Modifie myVar à false
+Modifie le second item du tableau MyArray, en "b"
+Modifie la propriété myProp2 de myObject, en "bonjour"
+
