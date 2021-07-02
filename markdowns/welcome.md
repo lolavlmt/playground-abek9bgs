@@ -117,7 +117,7 @@ Vous êtes un navigateur web. Dessinez :
 </html>
 
 ````
-Combien d'éléments en trop avez-vous mis ?
-Combien d'éléments vous manque-t-il ?
-Combien d'éléments ont toutes les bonnes couleurs ?
-Combien d'éléments n'ont pas les bonnes couleurs ?
+Comment est votre maquette :
+- Beaucoup d'erreur
+- Peu d'erreur
+- Parfaite
