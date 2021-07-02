@@ -40,7 +40,7 @@ Modifie le second item du tableau MyArray, en "b"
 Modifie la propriété myProp2 de myObject, en "bonjour"
 
 Vous êtes un navigateur web. Dessinez :
-````html
+````html runnable
 <div>hello</div>
 div { background-color : "red" }
 ````
