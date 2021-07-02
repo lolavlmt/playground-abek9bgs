@@ -39,7 +39,7 @@ Modifie myVar à false
 Modifie le second item du tableau MyArray, en "b"
 Modifie la propriété myProp2 de myObject, en "bonjour"
 
-Vous êtes un ordinateur. Dessinez :
-<div>hello</div>
-div { background-color : "red" }
+Vous êtes un navigateur web. Dessinez :
+````<div>hello</div>
+div { background-color : "red" }````
 
