@@ -24,7 +24,7 @@ A simple Nodejs project dedicated to run the programming exercise above. A proje
 [`techio.yml`](https://github.com/TechDotIO/nodejs-template/blob/master/techio.yml)
 This *mandatory* file describes both the table of content and the programming project(s). The file path should not be changed.
 
-# HTML/CSS
+# HTML/CSS - Niveau 1
 
 ## Intro
 Concrètement, une page web c'est quoi ? De simples fichiers texte !
@@ -109,10 +109,6 @@ Retournez sur le lien ... observez les sélecteurs dans le fichier css, et remar
 
 Parmi les propriétés css, on retrouve celles qui permettent de positionner des éléments.
 Notamment Flex...
-
-## Corriger un bug (FAQ)
-...
-
 
 ## A retenir
 - Strucutre html de base
@@ -209,16 +205,21 @@ Comment est votre maquette :
 
 ## Résolution de problèmes
 ...
+### FAQ - Bugs les plus courants
+...
 
 ## Composition
 Intégrez ce wireframes : ...
 
-## Pour aller plus loin
+# HTML/CSS - Niveau 2 - Pour aller plus loin
 Serveur web
 Référencement Google
 ID, Classes
 Grid, Float, ...
 After, first-child, ...
+Typo
+
+# Examens - Intégration maquette en 1h + Debrief
 
 
 # Test
