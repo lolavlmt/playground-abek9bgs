@@ -218,6 +218,7 @@ ID, Classes
 Grid, Float, ...
 After, first-child, ...
 Typo
+Media queries
 
 # Examens - Intégration maquette en 1h + Debrief
 
