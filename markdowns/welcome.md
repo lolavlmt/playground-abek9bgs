@@ -47,6 +47,12 @@ Vous êtes un navigateur web. Dessinez :
     <title>Mon Document</title>
     <meta charset="UTF-8">
     <style type="text/css">
+        header {
+            display: flex;
+        }
+        header img {
+            flex: 1;
+        }
         header ul li {
            display:inline;
         }
@@ -57,6 +63,17 @@ Vous êtes un navigateur web. Dessinez :
 
         div {
             display: flex;
+            width: 80%;
+            margin: auto;
+            border: 1px solid black;
+        }
+
+        article {
+            flex: 1;
+        }
+
+        article p:last-child {
+            text-align: center;
         }
     </style>
   </head>
@@ -79,25 +96,26 @@ Vous êtes un navigateur web. Dessinez :
                 <img src="#" alt="Image" />
                 <h2>Mon article 1</h2>
                 <p>Description</p>
-                <a href="#">Lire</a>
+                <p><a href="#">Lire</a></p>
             </article>
             <article>
                 <img src="#" alt="Image" />
-                <h2>Mon article 1</h2>
+                <h2>Mon article 2</h2>
                 <p>Description</p>
-                <a href="#">Lire</a>
+                <p><a href="#">Lire</a></p>
             </article>
             <article>
                 <img src="#" alt="Image" />
-                <h2>Mon article 1</h2>
+                <h2>Mon article 3</h2>
                 <p>Description</p>
-                <a href="#">Lire</a>
+                <p><a href="#">Lire</a></p>
             </article>
         </div>
     </main>
     <footer>Footer</footer>
   </body>
 </html>
+
 ````
 Combien d'éléments en trop avez-vous mis ?
 Combien d'éléments vous manque-t-il ?
