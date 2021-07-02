@@ -41,7 +41,25 @@ Modifie la propriété myProp2 de myObject, en "bonjour"
 
 Vous êtes un navigateur web. Dessinez :
 ````html runnable
-<div>hello</div>
-div { background-color : "red" }
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mon Document</title>
+    <meta charset="UTF-8">
+    <style type="text/css">
+        header, main, footer {
+            border-color: black;
+        }
+    </style>
+  </head>
+  <body>
+    <header>&nbsp;</header>
+    <main>&nbsp;</main>
+    <footer>&nbsp;</footer>
+  </body>
+</html>
 ````
-
+Combien d'éléments en trop avez-vous mis ?
+Combien d'éléments vous manque-t-il ?
+Combien d'éléments ont toutes les bonnes couleurs ?
+Combien d'éléments n'ont pas les bonnes couleurs ?
