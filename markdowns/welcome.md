@@ -47,7 +47,17 @@ Vous êtes un navigateur web. Dessinez :
     <title>Mon Document</title>
     <meta charset="UTF-8">
     <style type="text/css">
-        
+        header ul li {
+           display:inline;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        div {
+            display: flex;
+        }
     </style>
   </head>
   <body>
@@ -55,9 +65,9 @@ Vous êtes un navigateur web. Dessinez :
         <img src="#" alt="Logo">
         <nav>
             <ul>
-                <li>Accueil<li>
-                <li>Portfolio<li>
-                <li>À propos<li>
+                <li>Accueil</li>
+                <li>Portfolio</li>
+                <li>À propos</li>
                 <li>Contact</li>
             </ul>
         </nav>
