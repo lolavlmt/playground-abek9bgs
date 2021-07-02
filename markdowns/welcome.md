@@ -105,10 +105,13 @@ Et pour cibler un élément en particulier ?
 Nous pouvons utiliser des classes : modifiez l'html, puis le css
 Notez l'utilisation du point pour les classes.
 
-Retournez sur le lien ... observez les sélecteur danns fichier css, et remarquez tout ce qu'il est possible de faire.
+Retournez sur le lien ... observez les sélecteurs dans le fichier css, et remarquez tout ce qu'il est possible de faire.
 
 Parmi les propriétés css, on retrouve celles qui permettent de positionner des éléments.
 Notamment Flex...
+
+## Corriger un bug (FAQ)
+...
 
 
 ## A retenir
@@ -118,6 +121,9 @@ Notamment Flex...
 - Disposition Flex
 
 ## Quiz
+## Contrôle des connaissances
+...
+## Interprétation
 Vous êtes un navigateur web. Dessinez :
 ````html runnable
 <!DOCTYPE html>
@@ -200,6 +206,20 @@ Comment est votre maquette :
 - Beaucoup d'erreur
 - Peu d'erreur
 - Parfaite
+
+## Résolution de problèmes
+...
+
+## Composition
+Intégrez ce wireframes : ...
+
+## Pour aller plus loin
+Serveur web
+Référencement Google
+ID, Classes
+Grid, Float, ...
+After, first-child, ...
+
 
 # Test
 
