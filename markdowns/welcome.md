@@ -47,15 +47,45 @@ Vous êtes un navigateur web. Dessinez :
     <title>Mon Document</title>
     <meta charset="UTF-8">
     <style type="text/css">
-        header, main, footer {
-            border-color: black;
-        }
+        
     </style>
   </head>
   <body>
-    <header>&nbsp;</header>
-    <main>&nbsp;</main>
-    <footer>&nbsp;</footer>
+    <header>
+        <img src="#" alt="Logo">
+        <nav>
+            <ul>
+                <li>Accueil<li>
+                <li>Portfolio<li>
+                <li>À propos<li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Titre de ma page</h1>
+        <div>
+            <article>
+                <img src="#" alt="Image" />
+                <h2>Mon article 1</h2>
+                <p>Description</p>
+                <a href="#">Lire</a>
+            </article>
+            <article>
+                <img src="#" alt="Image" />
+                <h2>Mon article 1</h2>
+                <p>Description</p>
+                <a href="#">Lire</a>
+            </article>
+            <article>
+                <img src="#" alt="Image" />
+                <h2>Mon article 1</h2>
+                <p>Description</p>
+                <a href="#">Lire</a>
+            </article>
+        </div>
+    </main>
+    <footer>Footer</footer>
   </body>
 </html>
 ````
