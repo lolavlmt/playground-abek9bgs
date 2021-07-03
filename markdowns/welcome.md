@@ -1,5 +1,5 @@
 
-# HTML/CSS - Niveau 1
+# HTML/CSS - Niveau 1 - Démystifions l'HTMl
 
 ## Intro
 Concrètement, une page web c'est quoi ? De simples fichiers texte !
