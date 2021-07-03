@@ -1,3 +1,12 @@
+# Présentation
+Je propose du coaching pour apprendre le développement Web.
+Développeur Full-Stack depuis une dizaine d'année, et mentor chez OpenClassrooms, je vous propose une méthode pour vous former.
+Nous nous verrons 1x / semaine pour un suivi personnalisé et pratique.
+En complément, vous aurez accès aux cours, et aux exercices. Je les ai conçus en fonction des situations que je rencontre au quotidien dans mon travail.
+
+Votre abonnement est résiliable à tout moment. Il vous donne accès à 1 session hebdomadaire et aux cours et exercices d'entraînement.
+
+
 
 # HTML/CSS - Niveau 1 - Démystifions l'HTMl
 
