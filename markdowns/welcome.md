@@ -9,7 +9,7 @@ Votre abonnement est résiliable à tout moment. Il vous donne accès à 1 sessi
 
 
 
-# HTML/CSS - Niveau 1 - Démystifions l'HTMl
+# HTML/CSS - Niveau 1 - Démystifions l'HTMl (Straight to the point)
 
 ## Intro
 Concrètement, une page web c'est quoi ? De simples fichiers texte !
