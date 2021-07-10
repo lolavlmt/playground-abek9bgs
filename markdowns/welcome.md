@@ -232,7 +232,7 @@ L'objectif sera d'intégrer cette maquette : ...
 Pour la réaliser, vous ne pourrez pas vous baser sur vos connaissances actuelles, et vous ne trouverez pas la réponse dans mes cours :-)
 Par contre, je vous présente une méthode infaillible pour vous débrouillez comme un chef !
 1. Isoler la partie qui vous pose problème (export png), et décrivez en français, le résultat attendu, comme si vous demandiez à un intégrateur expérimenté de le réaliser, sans lui fournir l'export png.
-2. Brainstormez sur ce qui vous vient en tête (mobilisez vos connaissances, pensez out of the box), et notez les blocages
+2. Brainstormez sur ce qui vous vient en tête (mobilisez vos connaissances, relisez votre carnet de connaissances, pensez out of the box), et notez les blocages
 3. Cherchez sur internet un exemple (ne cherchez pas un cours !), et notez les solutions qui ont été mise en place
 4. Choisissez la solution qui vous semble la plus accessible pour vous
 5. Reproduisez l'exemple donné dans un codepen, et essayez de le comprendre en profondeur. Changez les propriétés pour voir l'impact.
