@@ -223,6 +223,22 @@ Modifie myVar à false
 Modifie le second item du tableau MyArray, en "b"
 Modifie la propriété myProp2 de myObject, en "bonjour"
 
+# HTML/CSS - Niveau 3 - Devenez expert
+Un expert ne sait pas tout ! Mais il sait trouver l'information qui lui manque rapidement, en autonomie.
+Désormais, vous êtes capable d'intégrer un site internet tout seul ! Vous pouvez faire beaucoup de chose, mais pas tout...
+Lorsque l'on commence à programmer, on passe beaucoup de temps à chercher, à débugger, etc. On se sent vite perdu, et on perd beaucoup de temps !
+Ce cours ne va pas vous apprendre de nouvelles théories sur l'HTML/CSS, mais vous entraîne à faire des recherches lorsque vous rencontrer un cas nouveau.
+L'objectif sera d'intégrer cette maquette : ...
+Pour la réaliser, vous ne pourrez pas vous baser sur vos connaissances actuelles, et vous ne trouverez pas la réponse dans mes cours :-)
+Par contre, je vous présente une méthode infaillible pour vous débrouillez comme un chef !
+1. Isoler la partie qui vous pose problème (export png), et décrivez en français, le résultat attendu, comme si vous demandiez à un intégrateur expérimenté de le réaliser, sans lui fournir l'export png.
+2. Brainstormez sur ce qui vous vient en tête (mobilisez vos connaissances, pensez out of the box), et notez les blocages
+3. Cherchez sur internet un exemple (ne cherchez pas un cours !), et notez les solutions qui ont été mise en place
+4. Choisissez la solution qui vous semble la plus accessible pour vous
+5. Reproduisez l'exemple donné dans un codepen, et essayez de le comprendre en profondeur. Changez les propriétés pour voir l'impact.
+6. Si quelque chose n'est pas clair, trouvez un cours qui explique ce comportement
+7. Créer un nouveau code pen pour adapter le code retenu à votre situation. N'hésitez pas à comparer l'exemple et votre code pour comprendre ce qui ne fonctionne pas.
+8. Si c'est une mauvaise piste, prenez une pause pour digérer les nouvelles informations apprises. Reprenez du début, à l'étape 1, en décrivant plus précisément ce que vous cherchez à faire, sans rentrer dans la technique. Et recommencer votre brain-storming, etc...
 
 # Welcome!
 
